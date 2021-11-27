@@ -7,7 +7,7 @@ Data usage represented at https://keras.io/datasets/ and depends on variant.
 
 
 There are represented such hyperparameters as 
-•	Layer count/
+•	Layer count /*
 •	Neurons count per layer (actually it’s not hyperparameter but structure parameter)
 •	Learn rate
 •	Regularization L1 and L2
